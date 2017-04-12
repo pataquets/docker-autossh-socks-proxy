@@ -1,0 +1,1 @@
+FROM pataquets/autossh-onbuild
